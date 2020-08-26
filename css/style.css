@@ -26,34 +26,13 @@ img {
   border-radius: 15px 50px;
 }
 
-
-/**************************
-Slide 11 Nastav každému písmenu jinou barvu
-**************************/
-
-
-.green {
-  color:#29c529;
-}
-
-.red {
-  color:#ff523d;
+.pink {
+  color:#742769;
 }
 
 .blue {
-  color: #223c88;
+  color:#467a78;
 }
-
-
-/************************** 
-Slide 11 Změn barvu pozadí (background-color) následujícím třídám
-.mission
-.about-us
-.team
-.contact
-sections
-**************************/
-
 
 .mission {
   background-color: #29c529;
