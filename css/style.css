@@ -33,24 +33,24 @@ img {
   color:#13e22e;
 }
 
-.mission {
+.naše-mise {
   background-color: #3a773a;
   color: white;
   text-align: center;
 }
 
-.about-us {
+.o-nás {
   background-color: rgb(66, 47, 21);
   color: white;
   text-align: center;
 }
 
-.team {
-  background-color: #2f3b5e;
-  color: white;
+.týmy {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
 }
 
-.contact {
+.kontakty {
   background-color: #552e2a;
   color:white;
 }
