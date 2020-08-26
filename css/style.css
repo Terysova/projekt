@@ -1,7 +1,7 @@
 
 
 body {
-  color: rgb(49, 58, 59);
+  color: rgb(6, 7, 7);
   font-family: sans-serif;
   margin: 0;
 }
@@ -26,11 +26,11 @@ img {
 }
 
 .pink {
-  color:#742769;
+  color:#e20dc2;
 }
 
 .blue {
-  color:#467a78;
+  color:#0d10ca;
 }
 
 .mission {
@@ -40,7 +40,9 @@ img {
 }
 
 .about-us {
-  background-color: white;
+  background-color: rgb(7, 6, 6);
+  color: white;
+  text-align: center;
 }
 
 .team {
