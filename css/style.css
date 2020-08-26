@@ -63,24 +63,6 @@ section {
   height: 25rem;
   background: #223c88 url('img/banner.jpg') center/cover no-repeat;
 }
-
-
-#myList {
-  list-style: none;
-}
-
-li.item{
-  padding: #292929;
-}
-
-.bsa, .sea {
-  color: #29c529;
-}
-
-.venturing {
-  color: #29c529;
-}
-
 nav a:hover {
   color: #292929;
   font-weight: #222222;
