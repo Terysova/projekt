@@ -26,11 +26,11 @@ img {
 }
 
 .pink {
-  color:#e20dc2;
+  color:#5a3709;
 }
 
 .blue {
-  color:#0d10ca;
+  color:#13e22e;
 }
 
 .mission {
@@ -62,7 +62,7 @@ section {
 
 .banner {
   height: 25rem;
-  background: #223c88 url('img/banner.jpg') center/cover no-repeat;
+  background: #223c88 url('https://instory.cz/content/images/5a/91/5a91807421e1c-254.jpg') center/cover no-repeat;
 }
 nav a:hover {
   color: #292929;
@@ -107,5 +107,5 @@ p {
   width: 18rem;
   padding-bottom: 1rem;
   border-bottom: 4px solid rgb(17, 80, 23);
-  color: #223c88; 
+  color: #ffffff; 
 }
