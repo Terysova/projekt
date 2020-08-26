@@ -70,20 +70,20 @@ section {
 }
 
 li.item{
-  padding:
+  padding: #292929;
 }
 
 .bsa, .sea {
-  color:
+  color: #29c529;
 }
 
 .venturing {
-  color:
+  color: #29c529;
 }
 
 nav a:hover {
-  color: 
-  font-weight:
+  color: #292929;
+  font-weight: #222222;
 }
 
 nav a {
