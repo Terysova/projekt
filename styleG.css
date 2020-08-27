@@ -1,0 +1,31 @@
+body {
+    color: rgb(6, 7, 7);
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+
+  .pink {
+    color:#faf601;
+  }
+  
+  .blue {
+    color:#2f0dc4;
+  }
+
+  .informace {
+    background-color: #6d6e70;
+    color: white;
+    text-align: center;
+  }
+
+  .banner {
+    height: 25rem;
+    background: #223c88 url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYHZJ1sxMNRpx-AJu6z9DP0AUI1HWYeopSPQ&usqp=CAU') center/cover no-repeat;
+  }
+
+  h1.h1detail {
+      font-size: 50pt;
+  }
+
+ 

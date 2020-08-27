@@ -1,0 +1,31 @@
+body {
+    color: rgb(6, 7, 7);
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+
+  .pink {
+    color:#ad7908;
+  }
+  
+  .blue {
+    color:#e7be04;
+  }
+
+  .informace {
+    background-color: #c4550c;
+    color: white;
+    text-align: center;
+  }
+
+  .banner {
+    height: 25rem;
+    background: #223c88 url('https://home.spsostrov.cz/~kovade/L3/zvirataObrazky/lemur.jpg') center/cover no-repeat;
+  }
+
+  h1.h1detail {
+      font-size: 50pt;
+  }
+
+ 
