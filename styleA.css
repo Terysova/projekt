@@ -1,0 +1,31 @@
+body {
+    color: rgb(6, 7, 7);
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+
+  .pink {
+    color:#faf601;
+  }
+  
+  .blue {
+    color:#c40d0d;
+  }
+
+  .informace {
+    background-color: #1069dd;
+    color: white;
+    text-align: center;
+  }
+
+  .banner {
+    height: 25rem;
+    background: #223c88 url('https://www.zoousti.cz/data/clanky/2118/big/ara-kaninda-01.jpg') center/cover no-repeat;
+  }
+
+  h1.h1detail {
+      font-size: 50pt;
+  }
+
+ 
